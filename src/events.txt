@@ -1,0 +1,9 @@
+Art,Art at the gallery,2024-03-26 10:00:00,50,www.art.com
+Concert,Concert at the stadium,2024-03-25 18:00:00,100,www.concert.com
+Exhibition,Exhibition at the museum,2024-04-01 10:00:00,100,www.exhibition.com
+Lecture,Lecture at the university,2024-03-27 14:00:00,50,www.lecture.com
+Festival,Festival at the park,2024-03-25 10:00:00,100,www.festival.com
+Conference,Conference at the convention center,2024-03-28 10:00:00,100,www.conference.com
+Seminar,Seminar at the hotel,2024-03-31 10:00:00,50,www.seminar.com
+Hiking,Hiking at the park,2024-03-29 10:00:00,50,www.hiking.com
+Wedding,Wedding at the church,2024-03-30 14:00:00,100,www.wedding.com
